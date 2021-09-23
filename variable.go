@@ -20,4 +20,5 @@ jadi perlu di deklarasikan tipe variabel nya
 
 Nilai Default
 Sring = ""
+int = 0
 ====================*/
