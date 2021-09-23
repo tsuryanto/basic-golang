@@ -5,5 +5,6 @@ func main() {
 	// LatihanIfControl()
 	// LatihanSwitchControl()
 	// LatihanForControl()
-	LatihanArray()
+	// LatihanArray()
+	LatihanSlice()
 }
