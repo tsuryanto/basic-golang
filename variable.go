@@ -12,6 +12,9 @@ func LatihanVariable() {
 
 	fmt.Println(name)
 	fmt.Println(age)
+
+	contohString := "100"
+	fmt.Println(contohString)
 }
 
 /*====================
