@@ -13,17 +13,20 @@ func main() {
 	// LatihanSliceMap()
 	// Quiz2()
 
-	printMyResult("Saya sedang belajar Golang")
+	Quiz3()
 
-	// luas, keliling := calculate(10, 2)
-	luas, _ := calculate(10, 2)
-	fmt.Println("Luas : ", luas)
-	// fmt.Println(keliling)
+	/* BELAJAR FUNCTION */
+	// printMyResult("Saya sedang belajar Golang")
 
-	// luas, keliling := calculate(10, 2)
-	luas, keliling := prCalculate(20, 4)
-	fmt.Println("PR : ", luas)
-	fmt.Println("PR : ", keliling)
+	// // luas, keliling := calculate(10, 2)
+	// luas, _ := calculate(10, 2)
+	// fmt.Println("Luas : ", luas)
+	// // fmt.Println(keliling)
+
+	// // luas, keliling := calculate(10, 2)
+	// luas, keliling := prCalculate(20, 4)
+	// fmt.Println("PR : ", luas)
+	// fmt.Println("PR : ", keliling)
 
 }
 
